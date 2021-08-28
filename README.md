@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Suryansh8181
+- 👋 Hi, I’m Suryansh Baranwal.
 - 👀 I’m interested in New Technologies.
-- 🌱 I’m currently learning Cloud Computing
-- 💞️ I’m looking to collaborate on Innovative projects
+- 🌱 I’m currently learning Cloud Computing.
+- 💞️ I’m looking to collaborate on Innovative projects.
 - 📫 How to reach me -> suryanshb123@gmail.com , Linkedin - https://www.linkedin.com/in/suryansh-baranwal
 
 <!---

@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Cloud Computing.
 - 💞️ I’m looking to collaborate on Innovative projects.
 - 📫 How to reach me -> suryanshb123@gmail.com , Linkedin - https://www.linkedin.com/in/suryansh-baranwal
-- 👀 My Portfolio - https://suryansh-portfolio.herokuapp.com/
+- 👀 My Portfolio - https://suryansh81-portfolio.netlify.app/
 
 
 <!---
